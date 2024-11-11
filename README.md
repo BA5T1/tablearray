@@ -1,4 +1,4 @@
-# tablearray
+# Tablearray
 Data of all recognized pinball tables
 
 
