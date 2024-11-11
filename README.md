@@ -12,6 +12,17 @@ Data of all recognized pinball tables
 </table>
 
 
+> [!NOTE]
+> If "needed" is empty all strings of "name" are needed in filename to match this entry.
+
+> [!NOTE]
+> "forbidden" overrules "needed".
+
+> [!TIP]
+> Highscore is only used for pinball-tables saving highscores in POST-IT files.
+
+
+
 CSV Data:
 ```
 name,display,manufactor,needed,forbidden,highscore
