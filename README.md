@@ -24,4 +24,4 @@ name,display,manufactor,needed,forbidden,highscore
 ```
 
 > [!CAUTION]
-> If you have "," in your values(strings) you must escape string with doublequotes: '"1-2-3,1973"'.
+> If you have "," in your values(strings) you must escape string with doublequotes: "1-2-3,1973".
