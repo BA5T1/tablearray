@@ -150,6 +150,7 @@ Big Star,Big Star,Williams 1972,"Big,Star,Williams,1972",,
 Big Town,Big Town,Playmatic 1978,"Big Town,Playmatic,1978",,
 Big Trouble in Little China,Big Trouble In Little China,Original 2023,"big,trouble,china",,
 Big Valley,Big Valley,Bally 1970,"Big,Valley,Bally,1970",,BigValley_70VPX.txt
+Billie Eilish,Billie Eilish,Original 2024,,,
 Black and Red,Black & Red,Inder 1975,"black,red,inder",,BlackRed.txt
 Black Belt,Black Belt,Bally 1986,,,
 Black Gold,Black Gold,Williams 1975,"Black,Gold,Williams,1975",,BlackGold_75VPX.txt
@@ -178,11 +179,12 @@ Bourne Identity,The Bourne Identity: Treadstone Edition,Original 2024,,,
 Bow And Arrow,Bow And Arrow,Bally 1975,"Bow,Arrow",,BowAndArrowEM_74VPX.txt
 Bram Stoker's Dracula,Bram Stoker's Dracula,Williams 1993,"Bram,Stoker,Dracula",,
 Brave Team,Brave Team,Inder 1985,"Brave,Team,Inder,1985",,
+Break,Break,Video Dens 1986,"Video,Dens",,
 Breakshot,Breakshot,Capcom 1996,,,
 Bristol Hills,Bristol Hills,Gottlieb 1971,"Bristol,Hills,Gottlieb,1971",,
 Bronco,Bronco,Gottlieb 1977,"Bronco,Gottlieb,1977",,Bronco_77VPX.txt
 Bubba the Redneck Werewolf,Bubba the Redneck Werewolf,Original 2017,,,
-Buccaneer,Buccaneer,Gottlieb 1976,,,
+Buccaneer,Buccaneer,Gottlieb 1976,,,Buccaneer_76VPX.txt
 Buck Rogers,Buck Rogers,Gottlieb 1980,,,
 Buckaroo,Buckaroo,Gottlieb 1965,,,Buckaroo_65VPX.txt
 Bud Spencer Terence Hill,Bud Spencer & Terence Hill,Original 2024,,,
@@ -191,7 +193,8 @@ Bumper,Bumper,Bill Port 1977,"Bumper,Bill,Port,1977",,bumper.txt
 Bumper Pool,Bumper Pool,Gottlieb 1969,"Bumper,Pool,Gottlieb,1969",,
 Bushido,Bushido,Inder 1993,,,
 Cabaret,Cabaret,Williams 1968,"Cabaret,Williams,1968",,
-Cactus Canyon,Cactus Canyon,Bally 1998,,,
+Cactus Canyon,Cactus Canyon,Bally 1998,,continued,
+Cactus Canyon Continued,Cactus Canyon Continued,Original 2019,continued,,
 Cactus Jack's,Cactus Jack's,Gottlieb 1991,"cactus,jack",,
 Caddie,Caddie,Playmatic 1975,"Caddie,Playmatic,1975",,Caddie_70VPX.txt
 Canada Dry,Canada Dry,Gottlieb 1976,,,CanadaDry_76VPX.txt
@@ -393,6 +396,7 @@ FJ,FJ,Hankin 1978,"FJ,Hankin,1978",,
 Flash,The Flash,Original 2018,"flash,the",gordon,
 Flash,Flash,Williams 1979,flash,"gordon,the",
 Flash Gordon,Flash Gordon,Bally 1981,,,
+Fleetwood Mac,Fleetwood Mac,Original 2025,,,
 Flicker,Flicker,Bally 1974,"Flicker,Bally,1974",,Flicker_1974_v2.txt
 Flight 2000,Flight 2000,Stern 1980,,,
 Flintstones,The Flintstones,Williams 1994,Flintstones,custom,
@@ -624,8 +628,8 @@ King Tut,King Tut,Williams 1979,"King,Tut,Williams,1979",,
 Kingpin,Kingpin,Capcom 1996,"Kingpin,Capcom,1996",,
 Kings & Queens,Kings & Queens,Gottlieb 1965,"Kings,Queens,Gottlieb,1965",,KingsAndQueens_65VPX.txt
 Kings of Steel,Kings of Steel,Bally 1984,"Kings,of,Steel,Bally,1984",,
-KISS,KISS,Bally 1979,,Stern,
-KISS,KISS,Stern 2016,,Bally,
+KISS,KISS,Bally 1979,,"Stern,Scooby",
+KISS,KISS,Stern 2016,,"Bally,Scooby",
 Klondike,Klondike,Williams 1971,,,Klondike1971.txt
 Knock Out,Knock Out,Gottlieb 1950,"Knock,Out,Gottlieb,1950",,Knockout_50VPX.txt
 Kong vs Godzilla,Kong vs Godzilla,Original 2023,"Kong,Godzilla,Original,2023",,
@@ -740,8 +744,8 @@ Mobile Suit Gundam,Mobile Suit Gundam,Original 2024,,,
 Monaco,Monaco,Segasa 1977,,,Monaco_77VPX.txt
 Monday Night Football,Monday Night Football,Data East 1989,,,
 Monkey Island,Monkey Island,Original 2016,,,
-Monopoly,Monopoly,Stern 2001,,wow,
-Monopoly Warcraft ,Monopoly Warcraft ,Original 2024,"Monopoly,Warcraft,2024",,
+Monopoly,Monopoly,Stern 2001,,"wow,warcraft",
+Monopoly Warcraft,Monopoly Warcraft,Original 2024,"Monopoly,Warcraft,2024",,
 Monster Bash,Monster Bash,Williams 1998,,,
 Monte Carlo,Monte Carlo,Gottlieb 1987,,,
 Moon Light,Moon Light,Inder 1987,"Moon,Light,Inder,1987",,
@@ -925,7 +929,7 @@ Quicksilver,Quicksilver,Stern 1980,,,
 Quijote,Quijote,Juegos Populares 1987,,,
 Rack Em Up,Rack Em Up,Gottlieb 1983,,,
 Rack-A-Ball,Rack A Ball,Gottlieb 1962,"Rack,A,Ball,Gottlieb,1962",,RackABall_62VPX.txt
-Radical,Radical,Bally 1990,,,
+Radical,Radical,Bally 1990,,bmx,
 Raid,Raid,Playmatic 1984,"Raid,Playmatic,1984",,
 Rainbow,Rainbow,Gottlieb 1956,"Rainbow,Gottlieb,1956",,Rainbow_56VPX.txt
 Rally,Rally,Taito 1980,,,
@@ -959,7 +963,7 @@ Rock,Rock,Premier 1985,"Rock,premier,1985",,
 Rock Star,Rock Star,Gottlieb 1978,"rock,star,gottlieb,1978",,
 Rocket III,Rocket III,Bally 1967,"Rocket,Bally,1967",,RocketIII_67VPX.txt
 Rockmakers,Rockmakers,Bally 1968,"Rockmakers,Bally,1968",,
-Rocky,Rocky,Gottlieb 1982,,"bullwinkle, TKO",
+Rocky,Rocky,Gottlieb 1982,,"bullwinkle,TKO",
 Rocky TKO Tribute,Rocky TKO Tribute,Original 2021,"rocky,tko",,
 Roller Coaster,Roller Coaster,Gottlieb 1971,"Roller,Coaster,Gottlieb,1971",,RollerCoaster_71VPX.txt
 Roller Derby,Roller Derby,Bally 1960,,,
@@ -981,6 +985,7 @@ Sands of the Aton,JP's Sands of the Aton,Original 2023,,,
 Satin Doll,Satin Doll,Williams 1975,"Satin,Doll,Williams,1975",,SatinDoll_75VPX.txt
 Scared Stiff,Scared Stiff,Bally 1996,,,
 Scarface,Scarface,Original,,,
+Scooby Doo and KISS,Scooby Doo! and KISS Rock n' Roll Mystery,Original 2015,,,
 Scorpion,Scorpion,Williams 1980,,,
 Schuss,Schuss,Rally 1968,"Schuss,Rally,1968",,schuss.txt
 Scuba,Scuba,Gottlieb 1970,"Scuba,Gottlieb,1970",,Scuba_70VPX.txt
@@ -1011,8 +1016,6 @@ Short Circuit,Short Circuit,Original 2024,,,
 Shovel Knight,Shovel Knight,Original 2017,,,
 Shrek,Shrek,Stern 2008,,,
 Shuffle Inn,Shuffle Inn,Williams 1989,"Shuffle,Inn,Williams,1989",,
-Sure Shot,Sure Shot,Gottlieb 1976,"Sure,Shot,Gottlieb",,
-Sure Shot,Sure Shot,Taito 1981,"Sure,Shot,Taito",,
 Silver Slugger,Silver Slugger,Gottlieb 1990,,,
 SilverBall Mania,SilverBall Mania,Bally 1980,"silver,ball,mania",,
 Simpsons,The Simpsons,Data East 1990,simpsons,"party, treehouse",
@@ -1159,8 +1162,8 @@ Super Straight,Super Straight,Sonic 1977,"Super,Straight,Sonic,1977",,SuperStrai
 Superman,Superman,Atari 1979,superman,serie,
 Superman The Animated Series,Superman The Animated Series,Original 2020,"superman,serie",,
 Supersonic,Supersonic,Bally 1979,,,
-Sure Shot,Sure Shot,Gottlieb 1976,"Sure,Shot,Gottlieb",Taito,
-Sure Shot,Sure Shot,Taito 1981,"Sure,Shot,Taito",Gottlieb,SureShot_76VPX.txt
+Sure Shot,Sure Shot,Gottlieb 1976,"Sure,Shot,Gottlieb",Taito,SureShot_76VPX.txt
+Sure Shot,Sure Shot,Taito 1981,"Sure,Shot,Taito",Gottlieb,
 Supreme,Supreme,Stern 2018,,,
 Surf Champ,Surf Champ,Gottlieb 1976,"Surf,Champ,Gottlieb,1976",,
 Surf n Safari,Surf n Safari,Gottlieb 1991,,,
@@ -1221,7 +1224,7 @@ Time Tunnel,Time Tunnel,Bally 1971,,,
 Time Warp,Time Warp,Williams 1979,"Time,Warp,Williams,1979",,
 Titan,Titan,Taito 1982,"titan,taito",,
 Title Fight,Title Fight,Gottlieb 1990,,,
-TKO,TKO,Gottlieb 1979,,,
+TKO,TKO,Gottlieb 1979,,rocky,
 Toledo,Toledo,Williams 1975,"Toledo,Williams,1975",,
 Tom & Jerry,Tom & Jerry,Original 2018,"tom,jerry",,
 Tomb Raider - A Survival is Born,Tomb Raider: A Survival is Born,Original 2019,,,
@@ -1247,7 +1250,7 @@ Transformers G1 Generation One,Transformers G1: Generation One,Original 2018,"tr
 Transformers The Movie 1986,Transformers - The Movie 1986,Original 2019,"transformers,movie",,
 Transporter the Rescue,Transporter the Rescue,Bally 1989,,,
 Travel Time,Travel Time,Williams 1972,,,
-Tri Zone,Tri Zone,Williams 1975,,,
+Tri Zone,Tri Zone,Williams 1975,,Strike,
 Trick Shooter,Trick Shooter,LTD 1980,,,
 Trident,Trident,Stern 1979,"Trident,Stern,1979",,
 Triple Action,Triple Action,Williams 1973,"Triple,Action,Williams,1973",,TripleAction_73VPX.txt
@@ -1280,8 +1283,8 @@ Viper,Viper,Stern 1981,,night,
 Viper Night Drivin,Viper Night Drivin,Sega 1998,,,
 Volcano,Volcano,Gottlieb 1981,,,
 Volkan,Volkan: Steel and Metal,Original 2023,,,
-Volley,Volley,Gottlieb 1976,"volley,gottlieb",,
-Volley,Volley,Taito 1980,"volley,taito",,Volley_76VPX.txt
+Volley,Volley,Gottlieb 1976,"volley,gottlieb",,Volley_76VPX.txt
+Volley,Volley,Taito 1980,"volley,taito",,
 Voltan Escapes Cosmic Doom,Voltan Escapes: Cosmic Doom,Bally 1978,,,
 Vortex,Vortex,Taito 1983,,,
 Vulcan,Vulcan,Gottlieb 1977,"Vulcan,Gottlieb,1977",,
