@@ -226,6 +226,7 @@ Champ,Champ,Bally 1974,"Champ,Bally,1974",,
 Champion Pub,Champion Pub,Williams 1998,,,
 Champions League,Champions League,Original 2017,,,
 Chance,Chance,Playmatic 1974,"Chance,Playmatic,1974",,chance.txt
+Chance,Chance,Playmatic 1978,"Chance,Playmatic,1978",,
 Charlie Angels,Charlie's Angels,Gottlieb 1978,"charlie,angels",,
 Charlie Brown Christmas,A Charlie Brown Christmas,Original 2023,,,bumper.txt
 Check,Check,Petaco 1975,"Check,Petaco,1975",mate,
@@ -396,9 +397,10 @@ FirePower Vs AI,FirePower Vs AI,Williams 1980,"firepower,ai",1983,
 Fish Tales,Fish Tales,Williams 1992,,,
 Five Nights at Freddy,Five Nights at Freddy's,Original 2021,,,
 FJ,FJ,Hankin 1978,"FJ,Hankin,1978",,
-Flash,The Flash,Original 2018,"flash,the",gordon,
-Flash,Flash,Williams 1979,flash,"gordon,the",
+Flash,The Flash,Original 2018,"flash,the","gordon,flashman",
+Flash,Flash,Williams 1979,flash,"gordon,the,flashman",
 Flash Gordon,Flash Gordon,Bally 1981,,,
+Flashman,Flashman,Sportmatic 1984,,,
 Fleetwood Mac,Fleetwood Mac,Original 2025,,,
 Flicker,Flicker,Bally 1974,"Flicker,Bally,1974",,Flicker_1974_v2.txt
 Flight 2000,Flight 2000,Stern 1980,,,
@@ -408,7 +410,7 @@ Flip a Card,Flip a Card,Gottlieb 1970,"Flip,a,Card,Gottlieb,1970",,FlipACard_70V
 Flip Flop,Flip Flop,Bally 1976,,,FlipFlop.txt
 Flipper Fair,Flipper Fair,Gottlieb 1961,"Flipper,Fair,Gottlieb,1961",,FlipperFair_61VPX.txt
 Flipper Football,Flipper Football,Capcom 1996,,,
-Flipper Pool,Flipper Pool,Gottlieb 1965,"Flipper,Pool,Gottlieb,1965",,
+Flipper Pool,Flipper Pool,Gottlieb 1965,"Flipper,Pool,Gottlieb,1965",,FlipperPool_65VPX.txt
 Flying Carpet,Flying Carpet,Gottlieb 1972,"Flying,Carpet,Gottlieb,1972",,
 Flying Chariots,Flying Chariots,Gottlieb 1963,,,FlyingChariots_63VPX.txt
 Flying Turns,Flying Turns,Midway 1964,,,
@@ -938,7 +940,7 @@ Rack-A-Ball,Rack A Ball,Gottlieb 1962,"Rack,A,Ball,Gottlieb,1962",,RackABall_62V
 Radical,Radical,Bally 1990,,bmx,
 Raid,Raid,Playmatic 1984,"Raid,Playmatic,1984",,
 Rainbow,Rainbow,Gottlieb 1956,"Rainbow,Gottlieb,1956",,Rainbow_56VPX.txt
-Rally,Rally,Taito 1980,,,
+Rally,Rally,Taito 1980,,tornado,
 Rambo NES Contra Mod,Rambo NES Contra Mod,Gottlieb 1986,"Rambo,Gottlieb,1986",,
 Ramones,Ramones,Original 2021,"Ramones,Original,2021",,
 Rancho,Rancho,Gottlieb 1965,"Rancho,Gottlieb,1965",,Rancho_65VPX.txt
