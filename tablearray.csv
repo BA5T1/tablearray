@@ -7,7 +7,7 @@ name,display,manufactor,needed,forbidden,highscore
 250cc,250 cc,Inder 1992,"250,cc",,
 300,300,Gottlieb 1975,"300,1975",,300_75VPX.txt
 301 Bulls Eye,301 Bulls Eye,Grand Products Incorporated 1986,,,
-4 Aces,4 Aces,Williams 1970,,,fouraces.txt
+4 Aces,4 Aces,Williams 1970,,faces,fouraces.txt
 4 Queens,4 Queens,Bally 1970,"4,Queens,Bally,1970",,4Queens70.txt
 4 Roses,4 Roses,Williams 1962,"4,Roses,Williams,1962",,
 4 Square,4 Square,Gottlieb 1971,"4,Square,Gottlieb,1971",,4Square_71VPX.txt
@@ -926,6 +926,7 @@ Psychedelic,Psychedelic,Gottlieb 1970,"Psychedelic,Gottlieb,1970",,
 Punch-Out,Punch-Out,Original 2025,"punch,out,2025",,
 Punchy the Clown,Punchy the Clown,Alvin G 1993,,,
 Punk!,Punk!,Gottlieb 1982,"Punk,Gottlieb,1982",,
+Punk Park,Punk Park,Original 2025,,,
 Purge,The Purge,Original 2023,,,
 Putin Vodka Mania,Putin Vodka Mania,Original 2023,,,
 Pyramid,Pyramid,Gottlieb 1978,"Pyramid,Gottlieb,1978",,
@@ -1136,6 +1137,7 @@ Stardust,Stardust,Williams 1971,"Stardust,Williams,1971",,Stardust.txt
 Stargate,Stargate,Gottlieb 1995,,,
 Stars,Stars,Stern 1978,"Stars,Stern,1978",,
 Starship Troopers,Starship Troopers,Sega 1997,,,
+Steve Miller Band,Steve Miller Band,Original 2025,,,
 Stellar Airship,Stellar Airship,Geiger 1979,"Stellar,Airship,Geiger,1979",,
 Stellar Wars,Stellar Wars,Williams 1979,,,
 Stephen King The Running Man,Stephen King's The Running Man,Original 2019,,,
