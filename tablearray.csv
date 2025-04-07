@@ -7,7 +7,7 @@ name,display,manufactor,needed,forbidden,highscore
 250cc,250 cc,Inder 1992,"250,cc",,
 300,300,Gottlieb 1975,"300,1975",,300_75VPX.txt
 301 Bulls Eye,301 Bulls Eye,Grand Products Incorporated 1986,,,
-4 Aces,4 Aces,Williams 1970,,,fouraces.txt
+4 Aces,4 Aces,Williams 1970,,faces,fouraces.txt
 4 Queens,4 Queens,Bally 1970,"4,Queens,Bally,1970",,4Queens70.txt
 4 Roses,4 Roses,Williams 1962,"4,Roses,Williams,1962",,
 4 Square,4 Square,Gottlieb 1971,"4,Square,Gottlieb,1971",,4Square_71VPX.txt
@@ -421,7 +421,8 @@ Force II,Force II,Gottlieb 1981,,,
 Four Million BC,Four Million B.C.,Bally 1971,"Four,Million,Bally,1971",,Four Million BC Bally 1971 v2.txt
 Four Seasons,Four Seasons,Gottlieb 1968,"Four,Seasons,Gottlieb,1968",,FourSeasons_68VPX.txt
 Frank Thomas' Big Hurt,Frank Thomas' Big Hurt,Gottlieb 1995,"Frank,Thomas,Big,Hurt,Gottlieb,1995",,
-"Freddy, A Nightmare on Elmstreet",Freddy - A Nightmare on Elm Street,Gottlieb 1994,"freddy,nightmare",,
+"Freddy, A Nightmare on Elmstreet",Freddy - A Nightmare on Elm Street,Gottlieb 1994,"freddy,nightmare",original,
+Freddy's Nightmares,Freddy's Nightmares,Original 2025,"freddy,nightmares",,
 Free Fall,Free Fall,Gottlieb 1974,"Free,Fall,Gottlieb,1974",,
 Freedom,Freedom,Bally 1976,"Freedom,Bally,1976",,Freedom_76VPX.txt
 Freefall,Freefall,Stern 1981,,,
@@ -1115,7 +1116,7 @@ Star Light,Star Light,Williams 1984,,,
 Star Mission,Star Mission,Durham 1977,"Star,Mission,Durham,1977",,
 Star Pool,Star Pool,Williams 1974,"Star,Pool,Williams,1974",,StarPool_74VPX.txt
 Star Race,Star Race,Gottlieb 1980,,,
-Star Ship,Star Ship,Bally 1976,"star,ship,bally",,
+Star Ship,Star Ship,Bally 1976,"star,ship,bally",,starship.txt
 Star Tours,Star Tours,Original 2024,,,
 Star Trek,Star Trek,Bally 1979,,"stern,generation,limited,data",
 Star Trek - 25th Anniversary,Star Trek - 25th Anniversary,Data East 1991,"star,trek,25th,anniversary","stern,generation,limited,bally",
