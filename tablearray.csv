@@ -166,7 +166,7 @@ Black Jack,Black Jack,Bally 1978,"Black,Jack,Bally,1978",,
 Black Knight,Black Knight,Williams 1980,,"2000,sword",
 Black Knight 2000,Black Knight 2000,Williams 1989,,,
 Black Knight Sword Of Rage,Black Knight: Sword Of Rage<br>Limited Edition,Stern 2019,,,
-Black Magic 4,Black Magic 4,Recel 1980,,,
+Black Magic 4,Black Magic 4,Recel 1980,,,blackmagic4.txt
 Black Pyramid,Black Pyramid,Bally 1984,,,
 Black Rose,Black Rose,Bally 1992,,,
 Blackout,Blackout,Williams 1980,,,
@@ -464,7 +464,7 @@ Galaxia,Galáxia,LTD 1975,"Galaxia,LTD,1975",,LTDGalaxia.txt
 Galaxie,Galaxie,Gottlieb 1971,"Galaxie,Gottlieb,1971",,
 Galaxy,Galaxie,Gottlieb 1971,,"stern,gotg,guardians,quest,sega,space",
 Galaxy,Galaxy,Stern 1980,,"gottlieb,gotg,guardians,quest,sega,space",
-Galaxy,Galaxy,Sega 1973,,"stern,gottlieb,gotg,guardians,quest,space",
+Galaxy,Galaxy,Sega 1973,,"stern,gottlieb,gotg,guardians,quest,space",SegaGalaxy.txt
 Galaxy play,Galaxy play,CIC Play 1986,,,
 Galaxy Quest,Galaxy Quest,original,,,
 Gamatron,Gamatron,Sonic 1986,,,
@@ -804,7 +804,7 @@ Mustang,Mustang,Gottlieb 1977,"Mustang,Gottlieb",,Mustang_77VPX.txt
 Mustang LE,Mustang LE,Stern 2014,"mustang,stern",,
 Mystery Castle,Mystery Castle,Alvin G 1993,,,
 Mystic,Mystic,Bally 1980,,,
-Nags,Nags,Williams 1960,"Nags,Williams,1960",,
+Nags,Nags,Williams 1960,"Nags,Williams,1960",,Nags_Williams_v.1.00.txt
 Nairobi,Nairobi,Maresa 1966,"Nairobi,Maresa,196",,nairobi.txt
 Nascar,Nascar,Stern 2005,,,
 National Lampoons X-Mas Vacation,National Lampoons - X-Mas Vacation,Original 2019,,,
@@ -875,7 +875,7 @@ Odisea Paris-Dakar,Odisea Paris-Dakar,Peyper 1978,"odisea,peyper",,
 Old Chicago,Old Chicago,Bally 1976,"old,chicago,bally",,OldChicago_75VPX.txt
 Old Coney Island,Old Coney Island,Gameplan 1979,,,
 Olympics,Olympics,Gottlieb 1962,"Olympics,Gottlieb,1962",,Olympics_62VPX.txt
-Olympics,Olympics,Chicago Coin 1975,"Olympics,Chicago,Coin,1975",,
+Olympics,Olympics,Chicago Coin 1975,"Olympics,Chicago,Coin,1975",,OlympicsCC.txt
 Olympus,Olympus,Juegos Populares 1986,,wrath,
 On Beam,On Beam,Bally 1969,,,onbeam.txt
 Once Upon A Time In The West,Once Upon A Time<br>In The West,Original 2019,,,
@@ -892,7 +892,7 @@ Paddock,Paddock,Williams 1969,"Paddock,Williams,1969",,Paddock_1969.txt
 Palace Guard,Palace Guard,Gottlieb 1968,"Palace,Guard,Gottlieb,1968",,
 Panthera,Panthera,Gottlieb 1980,,,
 Papa Smurf,Papa Smurf,Original JP,,,papasmurf.txt
-Paradise,Paradise,Gottlieb 1965,,,
+Paradise,Paradise,Gottlieb 1965,,,ParadiseJP.txt
 Paragon,Paragon,Bally 1979,,,
 Party Animal,Party Animal,Bally 1987,,,
 Party Zone,The Party Zone,Bally 1991,"party,zone",,
@@ -1069,7 +1069,7 @@ Simpsons Treehouse,The Simpsons - Treehouse of Horror,Stern 2003,"simpsons,treeh
 Sinbad,Sinbad,Gottlieb 1978,,,
 Sing Along,Sing Along,Gottlieb 1967,"Sing,Along,Gottlieb,1967",,SingAlong_67VPX.txt
 Sir Lancelot,Sir Lancelot,Peyper 1994,"Sir,Lancelot,Peyper,1994",,
-Sittin Pretty,Sittin' Pretty,Gottlieb 1958,"Sittin,Pretty,Gottlieb,1958",,
+Sittin Pretty,Sittin' Pretty,Gottlieb 1958,"Sittin,Pretty,Gottlieb,1958",,sittinpretty.txt
 Six Million Dollar Man,Six Million Dollar Man,Bally 1978,"Six,Million,Dollar,Man,Bally,1978",,
 Skate and Destroy,Skate and Destroy,Original 2019,,,
 Skateball,Skateball,Bally 1980,,,
@@ -1329,7 +1329,7 @@ Universe,Universe,Zaccaria 1976,"Universe,Zaccaria,1976",,UniverseZaccaria_76VPX
 Unreal Tournament 99 - Capture the Flag,Unreal Tournament 99: Capture the Flag,Original 2021,"unreal,tournament",,UT99.txt
 V.1,V.1,IDSA 1986,"V.1,IDSA,1986",,
 V.1,V.1,IDSA 1986,"V1,IDSA,1986",,
-Vampire,Vampire,Bally 1971,,,
+Vampire,Vampire,Bally 1971,,,VampireEM.txt
 Van Halen,Van Halen 2.0,Original 2025,,,
 Vasco da Gama,Vasco da Gama,Original 2020,,,
 Vector,Vector,Bally 1982,,,
